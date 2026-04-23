@@ -1,1 +1,12 @@
-# Name-it-practice-character-checker-Consuella-Tartt
+Practice: Character Checker
+Instructions
+Create a small program that prompts the user for a word or phrase and then allows
+them to query specific positions within that string.
+Your application should:
+1. Use readlineSync.question() to prompt a user for input
+2. Prompt a user for an index number to find the character at that index
+3. Use bracket notation to access the character
+4. Print out the character
+Setup
+1. Make sure you install readline-sync following the instructions in the
+Lesson: Values, Data Types, and Operations - 4.
